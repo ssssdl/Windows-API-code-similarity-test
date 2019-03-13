@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  WindowsProject1.cpp
+WindowsProject1.cpp(460): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+f:\代码\窗口程序\windowsproject1\windowsproject1\windowsproject1.cpp(363): warning C4172: 返回局部变量或临时变量的地址: szBuf
+  All 298 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  WindowsProject1.vcxproj -> F:\代码\窗口程序\WindowsProject1\Release\WindowsProject1.exe
